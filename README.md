@@ -12,7 +12,9 @@ Load data (this should be button, clicking this loads the below table)
 |              | GHI2 | Green  | L    | 14.99 | 2023-05-02    | 3     |
 
 
-Notes:
+
+
+### Notes:
 
 Initially show empty table with only column names
 
@@ -25,7 +27,9 @@ Show table at that place once data is loaded.
 UI should look nice. Use proper layout
 
 
-How to run API
+
+
+### How to run API
 
 All you need is Java 17 or above installed. Run below command
 
