@@ -15,8 +15,11 @@ Load data (this should be button, clicking this loads the below table)
 Notes:
 
 Initially show empty table with only column names
+
 On click of "Load data", make a call to this API from angular frontend app
+
 Show loader while data is being fetched
+
 Show table at that place once data is loaded.
 
 UI should look nice. Use proper layout
