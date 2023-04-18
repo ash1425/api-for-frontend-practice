@@ -20,3 +20,12 @@ Show loader while data is being fetched
 Show table at that place once data is loaded.
 
 UI should look nice. Use proper layout
+
+
+How to run API
+
+All you need is Java 17 or above installed. Run below command
+
+`./gradlew bootRun`
+
+API should be available at http://localhost:8080
